@@ -1,16 +1,62 @@
-## Hi there 👋
+# Sami
 
-<!--
-**sami-Oops/sami-Oops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Full Stack Web Developer  
+Passionate about building modern, responsive web applications.  
+Focused on improving my skills and working on real-world projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Currently learning web development technologies  
+- Interested in building clean and user-friendly interfaces  
+- Continuously improving through hands-on projects  
+- Goal-oriented and committed to becoming job-ready  
+
+---
+
+## Skills
+
+**Frontend:**
+- HTML5  
+- CSS3  
+- JavaScript  
+- Bootstrap  
+
+**Tools:**
+- Git & GitHub  
+- VS Code  
+- Netlify / GitHub Pages  
+
+---
+
+## Featured Project
+
+### SyncWed – Wedding Management Website  
+Live Demo: https://syncwed.netlify.app/
+
+A responsive wedding management website designed to help users organize and manage wedding-related tasks.
+
+**Features:**
+- Responsive design for all devices  
+- Clean and structured UI  
+- Interactive components  
+- User-friendly layout  
+
+**Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sami-Oops&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sami-Oops&layout=compact&theme=radical)
+
+---
+
+## Contact
+
+Email: your-email@example.com  
+LinkedIn: (add your link)  
+Portfolio: https://syncwed.netlify.app/
