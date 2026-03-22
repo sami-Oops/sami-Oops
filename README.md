@@ -57,6 +57,6 @@ A responsive wedding management website designed to help users organize and mana
 
 ## Contact
 
-Email: your-email@example.com  
-LinkedIn: (add your link)  
+Email: samiaptech3@gmail.com 
+LinkedIn: [(add your link)  ](https://www.linkedin.com/in/sami-ms-office-expert?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 Portfolio: https://syncwed.netlify.app/
